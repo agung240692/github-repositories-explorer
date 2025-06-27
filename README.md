@@ -79,7 +79,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ### Vercel (Recommended)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyour-username%2Fgithub-repos-explorer)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fagung240692%2Fgithub-repositories-explorer)
 
 ## Screenshots
 
